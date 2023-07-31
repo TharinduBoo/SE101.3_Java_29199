@@ -6,7 +6,7 @@ package com.mycompany.testemployee;
 public class TestEmployee {
     public static void main(String[] args) {
         // Using the constructor to set values
-        Employee emp = new Employee("Bogdan", 50000);
+        Employee emp = new Employee("Tharindu", 50000);
 
         // Getting values using getters
         String name = emp.getName();
